@@ -1,2 +1,3 @@
 # fotos-y-cosas
-Para subir fotos y probar cosas
+
+Con esto las fotos no tinene enlaces privados que cambian todo el rato.
